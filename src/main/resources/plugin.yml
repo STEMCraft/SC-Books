@@ -1,0 +1,5 @@
+name: SC-Books
+version: '1.0'
+main: com.stemcraft.Books
+api-version: '1.21'
+depend: [STEMCraftLib]
